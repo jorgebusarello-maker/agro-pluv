@@ -1,0 +1,7 @@
+{
+  "name": "AgroRain - Monitoramento Pluviométrico",
+  "description": "Aplicativo especializado para produtores rurais gerenciarem pluviômetros, registros de chuva e monitoramento de safra com visualização em mapa e exportação KML.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

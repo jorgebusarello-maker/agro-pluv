@@ -12,6 +12,7 @@ export interface Measurement {
   gaugeId: string;
   date: string;
   amount: number; // in mm
+  notes?: string; // Campo para anotações
 }
 
 export interface WeatherData {

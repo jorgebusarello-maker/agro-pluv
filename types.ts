@@ -15,11 +15,6 @@ export interface Measurement {
   notes?: string; // Campo para anotações
 }
 
-export interface WeatherData {
-  temp: number;
-  condition: string;
-}
-
 export interface AppState {
   gauges: Gauge[];
   measurements: Measurement[];
